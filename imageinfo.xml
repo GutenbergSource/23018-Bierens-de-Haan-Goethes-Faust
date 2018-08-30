@@ -1,0 +1,24 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 18:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="92764" filedate="2010-09-19 19:06:43" width="480px" height="720px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 16:17:10" width="12px" height="12px">
+</image>
+<image path="images/id.gif" filesize="3927" filedate="2010-09-19 19:12:52" width="105px" height="104px">
+</image>
+<image path="images/if.gif" filesize="4111" filedate="2010-09-19 19:11:37" width="104px" height="103px">
+</image>
+<image path="images/ig.gif" filesize="4047" filedate="2010-09-19 19:10:14" width="103px" height="104px">
+</image>
+<image path="images/in.gif" filesize="4149" filedate="2010-09-19 19:08:36" width="105px" height="103px">
+</image>
+<image path="images/iz.gif" filesize="4026" filedate="2010-09-19 19:14:11" width="103px" height="103px">
+</image>
+<image path="images/titlepage1.gif" filesize="49407" filedate="2010-09-19 19:26:19" width="501px" height="720px">
+</image>
+<image path="images/titlepage2.gif" filesize="44980" filedate="2010-09-19 19:20:37" width="498px" height="720px">
+</image>
+</images>
